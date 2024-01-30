@@ -11,6 +11,8 @@ portscan-rs is a simple reconnisance CLI tool built as a testing ground for me t
 ## Badges
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) 
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/kol-mikaelson/portscan-rs/rust.yml)
+
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kol-mikaelson)
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
